@@ -1,6 +1,6 @@
 function volume_sphere() {
     //Write your code here
-	let radiusInput=document.getElmentById("radius").value;  
+	let radiusInput=document.getElementById("radius").value;  
 
 	let radius=parseFloat(radiusInput);
 
